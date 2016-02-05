@@ -1,13 +1,13 @@
 //
-//  SetViewController.h
+//  SetCardGameViewController.h
 //  PolymorphicSet
 //
 //  Created by Andrew Ke on 11/11/13.
 //  Copyright (c) 2013 Andrew Ke. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "CardGameViewController.h"
 
-@interface SetViewController : UIViewController
+@interface SetCardGameViewController : CardGameViewController
 
 @end
